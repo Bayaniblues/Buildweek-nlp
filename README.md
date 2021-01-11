@@ -18,3 +18,5 @@ Search similar phrases.
 
 I hope that this build project can be a good example on how 
 NLP can be used on real world projects.
+
+https://www.gofundme.com/f/lola-paulina-bs-last-trip-request
